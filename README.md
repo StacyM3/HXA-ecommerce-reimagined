@@ -13,6 +13,13 @@ An 8-slide `.pptx` presentation covering:
 - **New shopping flow** — the streamlined journey after redesign
 - **Expected impact & measurement** — a metrics framework (conversion rate, cart abandonment, offer CTR, etc.) tied to each objective
 - **Next steps** — a concrete ask for validation and stakeholder alignment
+- ### Before & After
+
+| Before | After |
+|--------|-------|
+| ![Current mobile homepage](assets/before.png) | ![Redesigned mobile homepage](assets/after.png) |
+
+The current homepage buries navigation and offers inside a dense dark layout with limited visual hierarchy. The redesign introduces a clear search bar, a trust-building strip (delivery, authenticity, licensing, pharmacist access), and a lighter, product-forward layout that puts vitamins and offers front and center.
 
 ### How it was built
 The deck was generated programmatically using `pptxgenjs`, with a custom brand color palette, consistent typography, and layout conventions (icon rows, flow diagrams, comparison callouts, and a data table) rather than default PowerPoint templates. Screenshot, mockup, and prototype-video slots are left as clearly marked placeholders for real product assets.
