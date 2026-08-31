@@ -17,7 +17,9 @@ An 8-slide `.pptx` presentation covering:
 
 | Before | After |
 |--------|-------|
-| ![Current mobile homepage](assets/before.png) | ![Redesigned mobile homepage](assets/after.png) |
+|<img width="739" height="1292" alt="image" src="https://github.com/user-attachments/assets/3f4596d7-5178-4b4b-9f91-e1fb4baea2e4" />
+ |<img width="394" height="773" alt="image" src="https://github.com/user-attachments/assets/80e69dd8-9d29-4b07-82e3-bbca5876c180" />
+ |
 
 The current homepage buries navigation and offers inside a dense dark layout with limited visual hierarchy. The redesign introduces a clear search bar, a trust-building strip (delivery, authenticity, licensing, pharmacist access), and a lighter, product-forward layout that puts vitamins and offers front and center.
 
